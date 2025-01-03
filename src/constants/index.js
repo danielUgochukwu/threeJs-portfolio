@@ -166,20 +166,10 @@ export const workExperiences = [
     id: 2,
     name: 'Solidray Technology',
     pos: 'Front-end Developer',
-    duration: '2021 - 2022',
+    duration: '202 - 2023',
     title:
       'Developed user-friendly web interfaces to enhance customer engagement for computer, mobile, and game console repair services. \n Collaborated with the team to design and implement a seamless booking system for repair services, improving service delivery efficiency. \n Leveraged Figma for collaborative design processes, ensuring real-time feedback and rapid design iterations. \n Contributed to optimizing the company’s online presence, driving increased traffic and service inquiries.',
     icon: '/assets/solid-ray.png',
     animation: 'clapping',
-  },
-  {
-    id: 3,
-    name: 'Techtacles',
-    pos: 'Junior Web Developer',
-    duration: '2019 - 2020',
-    title:
-      'Notion helps me keep my projects organized. I use it for project management, task tracking, and as a central hub for documentation, ensuring that everything from design notes to.',
-    icon: '/assets/techtacles.png',
-    animation: 'salute',
   },
 ];
