@@ -58,6 +58,27 @@ export const clientReviews = [
 
 export const myProjects = [
   {
+    title: 'Innov8 Startup Accelerator Platform',
+    desc: 'Innovate is a next-generation startup accelerator platform built with the power of Next.js, designed to fuel entrepreneurial growth and streamline the journey from idea to scalable business. By harnessing cutting-edge web technologies and best practices, Innovate delivers an unparalleled experience for founders and startups alike.',
+    subdesc:
+      'Built with Next.js, NextAuth, Sanity, PPR, NextAfter, and server actions, Innov8 is optimized for startup acceleration and scalable growth.',
+    href: 'https://innov8-bay.vercel,app/',
+    texture: '/textures/project/innov8.mp4',
+    logo: '/assets/innov8-icon.png',
+    logoStyle: {
+      backgroundColor: '#291D00',
+      border: '0.2px solid #36201D',
+      boxShadow: '0px 0px 60px 0px #3D2C00',
+    },
+    tags: [
+      { id: 1, name: 'Next.js', path: '/assets/nextjs.svg' },
+      { id: 2, name: 'React.js', path: '/assets/react.svg' },
+      { id: 3, name: 'TailwindCSS', path: 'assets/tailwindcss.png' },
+      { id: 4, name: 'TypeScript', path: '/assets/typescript.png' },
+      { id: 5, name: 'Sanity', path: '/assets/Sanity.svg' },
+    ],
+  },
+  {
     title: 'Viraly - Social Media Web App',
     desc: 'Viraly is a dynamic social media platform designed for seamless interaction and sharing among users. It provides a highly interactive interface and robust backend to enhance user engagement.',
     subdesc:
