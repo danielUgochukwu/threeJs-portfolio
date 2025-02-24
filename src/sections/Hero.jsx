@@ -31,7 +31,7 @@ const Hero = () => {
         <p className="hero_tag text-gray_gradient">Crafting Scalable Products & Impactful Brands</p>
       </div>
 
-      <div className="w-full h-full absolute inset-0">
+      <div className="w-full h-full absolute inset-0 mt-16">
         <Canvas className="w-full h-full">
           <Suspense fallback={<CanvasLoader />}>
             {/* To hide controller */}
